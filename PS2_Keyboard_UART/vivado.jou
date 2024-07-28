@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu May 30 23:29:08 2024
+# Process ID: 2272
+# Current directory: C:/Users/ahmet/Desktop/PS2_Keyboard_UART
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1660 C:\Users\ahmet\Desktop\PS2_Keyboard_UART\PS2_Keyboard_UART.xpr
+# Log file: C:/Users/ahmet/Desktop/PS2_Keyboard_UART/vivado.log
+# Journal file: C:/Users/ahmet/Desktop/PS2_Keyboard_UART\vivado.jou
+# Running On: DESKTOP-VTDBCS3, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 4, Host memory: 8345 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+file mkdir C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/constrs_1
+file mkdir C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/constrs_1/new
+close [ open C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/constrs_1/new/BASYS3.xdc w ]
+add_files -fileset constrs_1 C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/constrs_1/new/BASYS3.xdc
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1

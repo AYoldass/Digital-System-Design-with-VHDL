@@ -1,0 +1,7 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot keyboard_uart_tb_behav xil_defaultlib.keyboard_uart_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-8944] expression has 256 elements; formal 'key_code' expects 8 [C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/keyboard_Uart_interface.vhd:43]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit keyboard_uart_tb in library work failed.

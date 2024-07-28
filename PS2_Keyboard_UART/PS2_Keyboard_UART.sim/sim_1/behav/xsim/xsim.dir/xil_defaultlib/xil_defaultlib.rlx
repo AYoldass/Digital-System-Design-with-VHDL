@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sim_1/new/tb_keyboard_UART_interface.vhd,1716893956,vhdl,,,,keyboard_uart_tb,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sim_1/new/tb_uart.vhd,1716836634,vhdl,,,,uart_tb,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/baud_gen_unit.vhd,1716831937,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,,,mod_m_counter,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/debounce.vhd,1716832630,vhdl,,,,debounce,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/fifo.vhd,1716893191,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/kb_code_unit.vhd,,,fifo,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/fifo_rx_unit.vhd,1716893218,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,,,fifo_rx_unit,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/fifo_tx_unit.vhd,1716893224,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,,,fifo_tx_unit,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/kb_code_unit.vhd,1716842624,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/keyboard_Uart_interface.vhd,,,kb_code,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/key2ascii.vhd,1716840229,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/keyboard_Uart_interface.vhd,,,key2ascii,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/keyboard_Uart_interface.vhd,1716893824,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sim_1/new/tb_keyboard_UART_interface.vhd,,,keyboard_uart_interface,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/ps2_keyboard_to_ascii.vhd,1716896516,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/kb_code_unit.vhd,,,ps2_keyboard_to_ascii,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/ps2_rx_unit.vhd,1716842427,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/kb_code_unit.vhd,,,ps2_rx,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,1716894457,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/keyboard_Uart_interface.vhd,,,uart,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart_rx.vhd,1716833498,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,,,uart_rx,,,,,,,,
+C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart_tx_unit.vhd,1716831830,vhdl,C:/Users/ahmet/Desktop/PS2_Keyboard_UART/PS2_Keyboard_UART.srcs/sources_1/new/uart.vhd,,,uart_tx,,,,,,,,
